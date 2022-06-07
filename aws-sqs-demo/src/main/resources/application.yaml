@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: {your access key here}
+      secret-key: {your secret key here}
+    end-point:
+      url: {your queue https url}
